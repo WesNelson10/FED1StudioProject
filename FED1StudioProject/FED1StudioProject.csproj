@@ -67,12 +67,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Classes.html" />
+    <Content Include="Contact.html" />
+    <Content Include="css\style.css" />
+    <Content Include="favicons\android-chrome-192x192.png" />
+    <Content Include="favicons\android-chrome-512x512.png" />
+    <Content Include="favicons\apple-touch-icon.png" />
+    <Content Include="favicons\favicon-16x16.png" />
+    <Content Include="favicons\favicon-32x32.png" />
+    <Content Include="favicons\favicon.ico" />
+    <Content Include="img\camp.jpg" />
+    <Content Include="img\campTree.jpg" />
+    <Content Include="img\cpLogo.png" />
+    <Content Include="img\crate.jpg" />
+    <Content Include="style.css" />
+    <Content Include="Team.html" />
+    <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="favicons\site.webmanifest" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -82,8 +99,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="css\" />
-    <Folder Include="img\" />
     <Folder Include="js\" />
   </ItemGroup>
   <PropertyGroup>
