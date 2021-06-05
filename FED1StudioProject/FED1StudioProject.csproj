@@ -73,12 +73,14 @@
     <Content Include="favicons\android-chrome-192x192.png" />
     <Content Include="favicons\android-chrome-512x512.png" />
     <Content Include="favicons\apple-touch-icon.png" />
+    <Content Include="favicons\benjaminBaileyCropped.jpg" />
     <Content Include="favicons\favicon-16x16.png" />
     <Content Include="favicons\favicon-32x32.png" />
     <Content Include="favicons\favicon.ico" />
     <Content Include="img\aliciaGreen.jpg" />
     <Content Include="img\ashtonUse.jpg" />
     <Content Include="img\avaUse.jpg" />
+    <Content Include="img\benjaminBaileyCropped.jpg" />
     <Content Include="img\cameronUse.jpg" />
     <Content Include="img\camp.jpg" />
     <Content Include="img\campfireIndex.jpg" />
@@ -94,6 +96,7 @@
     <Content Include="img\classMountainUse.jpg" />
     <Content Include="img\cpLogo.png" />
     <Content Include="img\crate.jpg" />
+    <Content Include="img\dylanPriceCropped.jpg" />
     <Content Include="img\goodJay2.png" />
     <Content Include="img\goodLexi.jpg" />
     <Content Include="img\grass2.png" />
