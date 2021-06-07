@@ -460,13 +460,13 @@ div.chooseMe {
     margin: auto;
 }
 
-#handShake {
+#sun {
     float: left;
     height: 150px;
     margin-right: 1.5em;
 }
 
-#laptopOther {
+#tree {
     height: 250px;
     width: 350px;
     float: right;
@@ -496,7 +496,7 @@ article#aboutSection section p {
     text-align: left;
 }
 
-#laptopTable {
+#camp {
     height: 250px;
     width: 350px;
     float: left;
